@@ -1,0 +1,7 @@
+1. BART: Denoising Sequence to Sequence Pretraining for Natural Language Generation, Translation, and Comprehension - Facebook AI(2020)
+2. What Changes Can Large scale Language Models Bring? Intensive Study on HyperCLOVA : Billions scale Korean Generative Pretrained Transformers - NAVER(2021)
+3. P-tuning v2 : Prompt Tuning Can Be Comparable to Fine tuning Universally Across Scales and Tasks (2022)
+4. Reference and Document Aware Semantic Evaluation Methods for Korean Language Summarization - Kakao Corp(2021)
+5. SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers - XIE et al.(2021)
+6. SwinTransformer: Hierarchical Vision Transformer using Shifted Windows - Microsoft Research Asia(2021)
+7. Distributed Representations of Words and Phrases and their Compositionality - Tomas Mikolov(2019)
